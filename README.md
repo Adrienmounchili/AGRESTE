@@ -5,6 +5,8 @@ Université de Yaoundé I — TP INF232 EC2.
 
 Version Python (Streamlit), remplace la version initiale en JavaScript.
 
+![Tableau de bord Agreste](assets/dashboard.jpg)
+
 ## Fonctionnalités
 
 - **Tableau de bord** : vue d'ensemble avec KPIs (nombre de réponses, moyenne d'heures, taux d'utilisation de l'IA…)
